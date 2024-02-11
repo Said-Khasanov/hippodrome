@@ -10,5 +10,4 @@ class MainTest {
     void mainTimeout() throws Exception {
         Main.main(new String[]{""});
     }
-
 }
